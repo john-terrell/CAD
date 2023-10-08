@@ -1,3 +1,3 @@
 use <lib/racklib.scad>;
 
-rack_blank(u = 1);
+rack_blank(u = 2);
